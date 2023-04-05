@@ -59,7 +59,7 @@ The rules of the programming language can be found in the document.
 ### Test case 1
 
 **Input** = "0911F"
-`<br>`
+<br>
 **Program behavior**: output1 (pin 8 - yellow LED) should be turned on.
 
 ![Simulation](https://github.com/mostafa-elgendy22/Advanced-Microprocessors-Midterm-Assessment/blob/main/Task4/9190608_4_V1_1.gif)
@@ -67,7 +67,7 @@ The rules of the programming language can be found in the document.
 ### Test case 2
 
 **Input** = "125420A115309E11531900C1F"
-`<br>`
+<br>
 **Program behavior**: the system will act exactly like the "simple LED" system described on task 1.
 
 ![Simulation](https://github.com/mostafa-elgendy22/Advanced-Microprocessors-Midterm-Assessment/blob/main/Task4/9190608_4_V1_2.gif)
@@ -75,7 +75,7 @@ The rules of the programming language can be found in the document.
 ### Test case 3
 
 **Input** = "5426A50217223116911D210B21803312519911529912519902529901539901539902F"
-`<br>`
+<br>
 **Program behavior**: After pressing the execution button (F), the system will keep reading the potentiometer value. If it is more than 3 then only the yellow LED will be turned on. If the potentiometer value is less than 3 then only the red LED will be turned on. If it is equal to 3 then both of them will be turned off.
 
 Note that this GIF is trimmed while entering the input because it is huge.
