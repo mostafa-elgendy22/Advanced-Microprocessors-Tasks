@@ -6,6 +6,8 @@ This repo includes my soultion to the Advanced Microprocessors course midterm (t
 It is required to connect a LED to pin 8 of Arduino uno board. Use one tact switch ("Fixed Volt" in the 
 SimuLIDE) connected to pin 10 to control it. This LED should be turned off at tact high and turned on at tact low
 
+### Simulation
+![Alt Text](https://github.com/mostafa-elgendy22/Advanced-Microprocessors-Midterm-Assessment/blob/main/Task1/9190608_1_V1.gif)
 
 ## Task 2
 ### Problem Statement
@@ -39,14 +41,17 @@ The rules of the programming language can be found in the document.
 
 ### Test case 1
 Input = "0911F"
+<br>
 Program behavior: output1 (pin 8 - yellow LED) should be turned on.
 
 
 ### Test case 2
 Input = "125420A115309E11531900C1F"
+<br>
 Program behavior: the system will act exactly like the "simple LED" system described on task 1.
 
 
 ### Test case 3
 Input = "5426A50217223116911D210B21803312519911529912519902529901539901539902F"
+<br>
 Program behavior: After pressing the execution button (F), the system will keep reading the potentiometer value. If it is more than 3 then only the yellow LED will be turned on. If the potentiometer value is less than 3 then only the red LED will be turned on. If it is equal to 3 then both of them will be turned off. 
