@@ -1,6 +1,6 @@
 # Advanced-Microprocessors-Midterm-Assessment
 
-This repo includes my soultion to the Advanced Microprocessors course midterm (this solution achieved the full mark 20/20). It consists of four tasks (their details can be found in "MidtermAssessment.pdf" document). It covers various topics: Arduino uno GPIO, Interrupts, Stepper motor interfacing (implemented from scratch), LCD interfacing, Non-blocking delays, Keypad (implemented from scratch). All the simulations are done using `<a href="https://www.simulide.com/p/home.html">`SimuLIDE`</a>`.
+This repo includes my soultion to the Advanced Microprocessors course midterm (this solution earned the full grade "20/20"). It consists of four tasks (their details can be found in "MidtermAssessment.pdf" document). It covers various topics: Arduino uno GPIO, Interrupts, Stepper motor interfacing (implemented from scratch), LCD interfacing, Non-blocking delays, Keypad (implemented from scratch). All the simulations are done using <a href="https://www.simulide.com/p/home.html">SimuLIDE</a>.
 
 ## Task 1
 
